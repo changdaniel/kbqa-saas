@@ -1,0 +1,303 @@
+{"answers": "Mid Cap/Blend", "entities": ["DVA", "COMPANY"], "qText": "What is the Equity Style of $DVA?", "qId": 1379, "freebaseKey": "DVA", "freebaseKeyCands": ["DVA"], "dep_path": []}
+{"answers": "Information Technology Services", "entities": ["CTSH", "COMPANY"], "qText": "What is the Industry of $CTSH?", "qId": 508, "freebaseKey": "CTSH", "freebaseKeyCands": ["CTSH"], "dep_path": []}
+{"answers": "Grocery Stores", "entities": ["KR", "COMPANY"], "qText": "What is the Industry of $KR?", "qId": 781, "freebaseKey": "KR", "freebaseKeyCands": ["KR"], "dep_path": []}
+{"answers": "Energy", "entities": ["NBL", "COMPANY"], "qText": "What is the Sector of $NBL?", "qId": 1317, "freebaseKey": "NBL", "freebaseKeyCands": ["NBL"], "dep_path": []}
+{"answers": "Industrials", "entities": ["WM", "COMPANY"], "qText": "What is the Sector of $WM?", "qId": 384, "freebaseKey": "WM", "freebaseKeyCands": ["WM"], "dep_path": []}
+{"answers": "Real Estate", "entities": ["PLD", "COMPANY"], "qText": "What is the Sector of $PLD?", "qId": 264, "freebaseKey": "PLD", "freebaseKeyCands": ["PLD"], "dep_path": []}
+{"answers": "Mid Cap/Growth", "entities": ["ODFL", "COMPANY"], "qText": "What is the Equity Style of $ODFL?", "qId": 1061, "freebaseKey": "ODFL", "freebaseKeyCands": ["ODFL"], "dep_path": []}
+{"answers": "Technology", "entities": ["INTU", "COMPANY"], "qText": "What is the Sector of $INTU?", "qId": 222, "freebaseKey": "INTU", "freebaseKeyCands": ["INTU"], "dep_path": []}
+{"answers": "Consumer Cyclical", "entities": ["LVS", "COMPANY"], "qText": "What is the Sector of $LVS?", "qId": 753, "freebaseKey": "LVS", "freebaseKeyCands": ["LVS"], "dep_path": []}
+{"answers": "Mid Cap/Value", "entities": ["MOS", "COMPANY"], "qText": "What is the Equity Style of $MOS?", "qId": 1430, "freebaseKey": "MOS", "freebaseKeyCands": ["MOS"], "dep_path": []}
+{"answers": "Mid Cap/Blend", "entities": ["AMP", "COMPANY"], "qText": "What is the Equity Style of $AMP?", "qId": 776, "freebaseKey": "AMP", "freebaseKeyCands": ["AMP"], "dep_path": []}
+{"answers": "Industrials", "entities": ["EMR", "COMPANY"], "qText": "What is the Sector of $EMR?", "qId": 426, "freebaseKey": "EMR", "freebaseKeyCands": ["EMR"], "dep_path": []}
+{"answers": "Oil & Gas E&P", "entities": ["PXD", "COMPANY"], "qText": "What is the Industry of $PXD?", "qId": 751, "freebaseKey": "PXD", "freebaseKeyCands": ["PXD"], "dep_path": []}
+{"answers": "Consumer Defensive", "entities": ["COTY", "COMPANY"], "qText": "What is the Sector of $COTY?", "qId": 1503, "freebaseKey": "COTY", "freebaseKeyCands": ["COTY"], "dep_path": []}
+{"answers": "Industrials", "entities": ["CAT", "COMPANY"], "qText": "What is the Sector of $CAT?", "qId": 237, "freebaseKey": "CAT", "freebaseKeyCands": ["CAT"], "dep_path": []}
+{"answers": "Large Cap/Blend", "entities": ["APD", "COMPANY"], "qText": "What is the Equity Style of $APD?", "qId": 347, "freebaseKey": "APD", "freebaseKeyCands": ["APD"], "dep_path": []}
+{"answers": "Financial Services", "entities": ["MKTX", "COMPANY"], "qText": "What is the Sector of $MKTX?", "qId": 1140, "freebaseKey": "MKTX", "freebaseKeyCands": ["MKTX"], "dep_path": []}
+{"answers": "Large Cap/Blend", "entities": ["PEP", "COMPANY"], "qText": "What is the Equity Style of $PEP?", "qId": 74, "freebaseKey": "PEP", "freebaseKeyCands": ["PEP"], "dep_path": []}
+{"answers": "Gold", "entities": ["NEM", "COMPANY"], "qText": "What is the Industry of $NEM?", "qId": 523, "freebaseKey": "NEM", "freebaseKeyCands": ["NEM"], "dep_path": []}
+{"answers": "Industrials", "entities": ["GE", "COMPANY"], "qText": "What is the Sector of $GE?", "qId": 174, "freebaseKey": "GE", "freebaseKeyCands": ["GE"], "dep_path": []}
+{"answers": "Mid Cap/Blend", "entities": ["WYNN", "COMPANY"], "qText": "What is the Equity Style of $WYNN?", "qId": 1160, "freebaseKey": "WYNN", "freebaseKeyCands": ["WYNN"], "dep_path": []}
+{"answers": "Large Cap/Growth", "entities": ["INFO", "COMPANY"], "qText": "What is the Equity Style of $INFO?", "qId": 557, "freebaseKey": "INFO", "freebaseKeyCands": ["INFO"], "dep_path": []}
+{"answers": "Mid Cap/Value", "entities": ["DXC", "COMPANY"], "qText": "What is the Equity Style of $DXC?", "qId": 1364, "freebaseKey": "DXC", "freebaseKeyCands": ["DXC"], "dep_path": []}
+{"answers": "Medical Devices", "entities": ["SYK", "COMPANY"], "qText": "What is the Industry of $SYK?", "qId": 271, "freebaseKey": "SYK", "freebaseKeyCands": ["SYK"], "dep_path": []}
+{"answers": "Specialty Industrial Machinery", "entities": ["DOV", "COMPANY"], "qText": "What is the Industry of $DOV?", "qId": 928, "freebaseKey": "DOV", "freebaseKeyCands": ["DOV"], "dep_path": []}
+{"answers": "Mid Cap/Value", "entities": ["CAH", "COMPANY"], "qText": "What is the Equity Style of $CAH?", "qId": 920, "freebaseKey": "CAH", "freebaseKeyCands": ["CAH"], "dep_path": []}
+{"answers": "Real Estate", "entities": ["AVB", "COMPANY"], "qText": "What is the Sector of $AVB?", "qId": 585, "freebaseKey": "AVB", "freebaseKeyCands": ["AVB"], "dep_path": []}
+{"answers": "Mid Cap/Growth", "entities": ["CDNS", "COMPANY"], "qText": "What is the Equity Style of $CDNS?", "qId": 788, "freebaseKey": "CDNS", "freebaseKeyCands": ["CDNS"], "dep_path": []}
+{"answers": "Real Estate", "entities": ["DLR", "COMPANY"], "qText": "What is the Sector of $DLR?", "qId": 663, "freebaseKey": "DLR", "freebaseKeyCands": ["DLR"], "dep_path": []}
+{"answers": "Basic Materials", "entities": ["MLM", "COMPANY"], "qText": "What is the Sector of $MLM?", "qId": 978, "freebaseKey": "MLM", "freebaseKeyCands": ["MLM"], "dep_path": []}
+{"answers": "Consumer Cyclical", "entities": ["BLL", "COMPANY"], "qText": "What is the Sector of $BLL?", "qId": 702, "freebaseKey": "BLL", "freebaseKeyCands": ["BLL"], "dep_path": []}
+{"answers": "Medical Instruments & Supplies", "entities": ["RMD", "COMPANY"], "qText": "What is the Industry of $RMD?", "qId": 709, "freebaseKey": "RMD", "freebaseKeyCands": ["RMD"], "dep_path": []}
+{"answers": "Large Cap/Value", "entities": ["D", "COMPANY"], "qText": "What is the Equity Style of $D?", "qId": 269, "freebaseKey": "D", "freebaseKeyCands": ["D"], "dep_path": []}
+{"answers": "Insurance - Life", "entities": ["GL", "COMPANY"], "qText": "What is the Industry of $GL?", "qId": 1237, "freebaseKey": "GL", "freebaseKeyCands": ["GL"], "dep_path": []}
+{"answers": "Communication Services", "entities": ["EA", "COMPANY"], "qText": "What is the Sector of $EA?", "qId": 570, "freebaseKey": "EA", "freebaseKeyCands": ["EA"], "dep_path": []}
+{"answers": "Industrials", "entities": ["XYL", "COMPANY"], "qText": "What is the Sector of $XYL?", "qId": 993, "freebaseKey": "XYL", "freebaseKeyCands": ["XYL"], "dep_path": []}
+{"answers": "Financial Services", "entities": ["STT", "COMPANY"], "qText": "What is the Sector of $STT?", "qId": 633, "freebaseKey": "STT", "freebaseKeyCands": ["STT"], "dep_path": []}
+{"answers": "Large Cap/Value", "entities": ["WMB", "COMPANY"], "qText": "What is the Equity Style of $WMB?", "qId": 689, "freebaseKey": "WMB", "freebaseKeyCands": ["WMB"], "dep_path": []}
+{"answers": "Specialty Business Services", "entities": ["CPRT", "COMPANY"], "qText": "What is the Industry of $CPRT?", "qId": 823, "freebaseKey": "CPRT", "freebaseKeyCands": ["CPRT"], "dep_path": []}
+{"answers": "Mid Cap/Blend", "entities": ["XEC", "COMPANY"], "qText": "What is the Equity Style of $XEC?", "qId": 1499, "freebaseKey": "XEC", "freebaseKeyCands": ["XEC"], "dep_path": []}
+{"answers": "Mid Cap/Value", "entities": ["RHI", "COMPANY"], "qText": "What is the Equity Style of $RHI?", "qId": 1409, "freebaseKey": "RHI", "freebaseKeyCands": ["RHI"], "dep_path": []}
+{"answers": "Oil & Gas Refining & Marketing", "entities": ["PSX", "COMPANY"], "qText": "What is the Industry of $PSX?", "qId": 475, "freebaseKey": "PSX", "freebaseKeyCands": ["PSX"], "dep_path": []}
+{"answers": "Mid Cap/Blend", "entities": ["LDOS", "COMPANY"], "qText": "What is the Equity Style of $LDOS?", "qId": 1007, "freebaseKey": "LDOS", "freebaseKeyCands": ["LDOS"], "dep_path": []}
+{"answers": "Consumer Cyclical", "entities": ["F", "COMPANY"], "qText": "What is the Sector of $F?", "qId": 582, "freebaseKey": "F", "freebaseKeyCands": ["F"], "dep_path": []}
+{"answers": "Utilities - Diversified", "entities": ["FE", "COMPANY"], "qText": "What is the Industry of $FE?", "qId": 640, "freebaseKey": "FE", "freebaseKeyCands": ["FE"], "dep_path": []}
+{"answers": "Industrials", "entities": ["EFX", "COMPANY"], "qText": "What is the Sector of $EFX?", "qId": 873, "freebaseKey": "EFX", "freebaseKeyCands": ["EFX"], "dep_path": []}
+{"answers": "Large Cap/Blend", "entities": ["RCL", "COMPANY"], "qText": "What is the Equity Style of $RCL?", "qId": 890, "freebaseKey": "RCL", "freebaseKeyCands": ["RCL"], "dep_path": []}
+{"answers": "Mid Cap/Value", "entities": ["IRM", "COMPANY"], "qText": "What is the Equity Style of $IRM?", "qId": 1304, "freebaseKey": "IRM", "freebaseKeyCands": ["IRM"], "dep_path": []}
+{"answers": "Entertainment", "entities": ["DIS", "COMPANY"], "qText": "What is the Industry of $DIS?", "qId": 55, "freebaseKey": "DIS", "freebaseKeyCands": ["DIS"], "dep_path": []}
+{"answers": "Drug Manufacturers - General", "entities": ["BIIB", "COMPANY"], "qText": "What is the Industry of $BIIB?", "qId": 331, "freebaseKey": "BIIB", "freebaseKeyCands": ["BIIB"], "dep_path": []}
+{"answers": "Large Cap/Value", "entities": ["CMCSA", "COMPANY"], "qText": "What is the Equity Style of $CMCSA?", "qId": 68, "freebaseKey": "CMCSA", "freebaseKeyCands": ["CMCSA"], "dep_path": []}
+{"answers": "Healthcare", "entities": ["ALXN", "COMPANY"], "qText": "What is the Sector of $ALXN?", "qId": 765, "freebaseKey": "ALXN", "freebaseKeyCands": ["ALXN"], "dep_path": []}
+{"answers": "Industrials", "entities": ["DE", "COMPANY"], "qText": "What is the Sector of $DE?", "qId": 366, "freebaseKey": "DE", "freebaseKeyCands": ["DE"], "dep_path": []}
+{"answers": "Furnishings, Fixtures & Appliances", "entities": ["MHK", "COMPANY"], "qText": "What is the Industry of $MHK?", "qId": 1348, "freebaseKey": "MHK", "freebaseKeyCands": ["MHK"], "dep_path": []}
+{"answers": "Large Cap/Growth", "entities": ["APH", "COMPANY"], "qText": "What is the Equity Style of $APH?", "qId": 602, "freebaseKey": "APH", "freebaseKeyCands": ["APH"], "dep_path": []}
+{"answers": "Electronic Components", "entities": ["TEL", "COMPANY"], "qText": "What is the Industry of $TEL?", "qId": 595, "freebaseKey": "TEL", "freebaseKeyCands": ["TEL"], "dep_path": []}
+{"answers": "Aerospace & Defense", "entities": ["BA", "COMPANY"], "qText": "What is the Industry of $BA?", "qId": 88, "freebaseKey": "BA", "freebaseKeyCands": ["BA"], "dep_path": []}
+{"answers": "Telecom Services", "entities": ["VZ", "COMPANY"], "qText": "What is the Industry of $VZ?", "qId": 58, "freebaseKey": "VZ", "freebaseKeyCands": ["VZ"], "dep_path": []}
+{"answers": "Consumer Cyclical", "entities": ["LEN", "COMPANY"], "qText": "What is the Sector of $LEN?", "qId": 870, "freebaseKey": "LEN", "freebaseKeyCands": ["LEN"], "dep_path": []}
+{"answers": "Mid Cap/Growth", "entities": ["TTWO", "COMPANY"], "qText": "What is the Equity Style of $TTWO?", "qId": 1163, "freebaseKey": "TTWO", "freebaseKeyCands": ["TTWO"], "dep_path": []}
+{"answers": "Drug Manufacturers - General", "entities": ["ABBV", "COMPANY"], "qText": "What is the Industry of $ABBV?", "qId": 124, "freebaseKey": "ABBV", "freebaseKeyCands": ["ABBV"], "dep_path": []}
+{"answers": "Mid Cap/Blend", "entities": ["AVY", "COMPANY"], "qText": "What is the Equity Style of $AVY?", "qId": 1214, "freebaseKey": "AVY", "freebaseKeyCands": ["AVY"], "dep_path": []}
+{"answers": "Large Cap/Growth", "entities": ["DHR", "COMPANY"], "qText": "What is the Equity Style of $DHR?", "qId": 182, "freebaseKey": "DHR", "freebaseKeyCands": ["DHR"], "dep_path": []}
+{"answers": "Technology", "entities": ["BR", "COMPANY"], "qText": "What is the Sector of $BR?", "qId": 1077, "freebaseKey": "BR", "freebaseKeyCands": ["BR"], "dep_path": []}
+{"answers": "Software - Infrastructure", "entities": ["VRSN", "COMPANY"], "qText": "What is the Industry of $VRSN?", "qId": 796, "freebaseKey": "VRSN", "freebaseKeyCands": ["VRSN"], "dep_path": []}
+{"answers": "Large Cap/Value", "entities": ["COF", "COMPANY"], "qText": "What is the Equity Style of $COF?", "qId": 410, "freebaseKey": "COF", "freebaseKeyCands": ["COF"], "dep_path": []}
+{"answers": "Healthcare", "entities": ["DVA", "COMPANY"], "qText": "What is the Sector of $DVA?", "qId": 1377, "freebaseKey": "DVA", "freebaseKeyCands": ["DVA"], "dep_path": []}
+{"answers": "Mid Cap/Value", "entities": ["CE", "COMPANY"], "qText": "What is the Equity Style of $CE?", "qId": 1124, "freebaseKey": "CE", "freebaseKeyCands": ["CE"], "dep_path": []}
+{"answers": "Large Cap/Value", "entities": ["KHC", "COMPANY"], "qText": "What is the Equity Style of $KHC?", "qId": 965, "freebaseKey": "KHC", "freebaseKeyCands": ["KHC"], "dep_path": []}
+{"answers": "Household & Personal Products", "entities": ["CL", "COMPANY"], "qText": "What is the Industry of $CL?", "qId": 301, "freebaseKey": "CL", "freebaseKeyCands": ["CL"], "dep_path": []}
+{"answers": "Real Estate", "entities": ["PSA", "COMPANY"], "qText": "What is the Sector of $PSA?", "qId": 531, "freebaseKey": "PSA", "freebaseKeyCands": ["PSA"], "dep_path": []}
+{"answers": "Mid Cap/Blend", "entities": ["SIVB", "COMPANY"], "qText": "What is the Equity Style of $SIVB?", "qId": 1100, "freebaseKey": "SIVB", "freebaseKeyCands": ["SIVB"], "dep_path": []}
+{"answers": "Aerospace & Defense", "entities": ["RTN", "COMPANY"], "qText": "What is the Industry of $RTN?", "qId": 316, "freebaseKey": "RTN", "freebaseKeyCands": ["RTN"], "dep_path": []}
+{"answers": "Consumer Defensive", "entities": ["KMB", "COMPANY"], "qText": "What is the Sector of $KMB?", "qId": 378, "freebaseKey": "KMB", "freebaseKeyCands": ["KMB"], "dep_path": []}
+{"answers": "Computer Hardware", "entities": ["HPQ", "COMPANY"], "qText": "What is the Industry of $HPQ?", "qId": 547, "freebaseKey": "HPQ", "freebaseKeyCands": ["HPQ"], "dep_path": []}
+{"answers": "Medical Care Facilities", "entities": ["HCA", "COMPANY"], "qText": "What is the Industry of $HCA?", "qId": 481, "freebaseKey": "HCA", "freebaseKeyCands": ["HCA"], "dep_path": []}
+{"answers": "Diagnostics & Research", "entities": ["WAT", "COMPANY"], "qText": "What is the Industry of $WAT?", "qId": 1081, "freebaseKey": "WAT", "freebaseKeyCands": ["WAT"], "dep_path": []}
+{"answers": "Drug Manufacturers - General", "entities": ["AGN", "COMPANY"], "qText": "What is the Industry of $AGN?", "qId": 304, "freebaseKey": "AGN", "freebaseKeyCands": ["AGN"], "dep_path": []}
+{"answers": "Apparel Manufacturing", "entities": ["VFC", "COMPANY"], "qText": "What is the Industry of $VFC?", "qId": 655, "freebaseKey": "VFC", "freebaseKeyCands": ["VFC"], "dep_path": []}
+{"answers": "Financial Services", "entities": ["LNC", "COMPANY"], "qText": "What is the Sector of $LNC?", "qId": 1185, "freebaseKey": "LNC", "freebaseKeyCands": ["LNC"], "dep_path": []}
+{"answers": "Mid Cap/Value", "entities": ["CFG", "COMPANY"], "qText": "What is the Equity Style of $CFG?", "qId": 962, "freebaseKey": "CFG", "freebaseKeyCands": ["CFG"], "dep_path": []}
+{"answers": "Specialty Chemicals", "entities": ["SHW", "COMPANY"], "qText": "What is the Industry of $SHW?", "qId": 400, "freebaseKey": "SHW", "freebaseKeyCands": ["SHW"], "dep_path": []}
+{"answers": "Insurance - Property & Casualty", "entities": ["L", "COMPANY"], "qText": "What is the Industry of $L?", "qId": 1063, "freebaseKey": "L", "freebaseKeyCands": ["L"], "dep_path": []}
+{"answers": "Technology", "entities": ["ANSS", "COMPANY"], "qText": "What is the Sector of $ANSS?", "qId": 717, "freebaseKey": "ANSS", "freebaseKeyCands": ["ANSS"], "dep_path": []}
+{"answers": "Large Cap/Blend", "entities": ["STZ", "COMPANY"], "qText": "What is the Equity Style of $STZ?", "qId": 539, "freebaseKey": "STZ", "freebaseKeyCands": ["STZ"], "dep_path": []}
+{"answers": "Utilities - Regulated Electric", "entities": ["XEL", "COMPANY"], "qText": "What is the Industry of $XEL?", "qId": 514, "freebaseKey": "XEL", "freebaseKeyCands": ["XEL"], "dep_path": []}
+{"answers": "Mid Cap/Value", "entities": ["WRK", "COMPANY"], "qText": "What is the Equity Style of $WRK?", "qId": 1262, "freebaseKey": "WRK", "freebaseKeyCands": ["WRK"], "dep_path": []}
+{"answers": "Mid Cap/Value", "entities": ["HRB", "COMPANY"], "qText": "What is the Equity Style of $HRB?", "qId": 1487, "freebaseKey": "HRB", "freebaseKeyCands": ["HRB"], "dep_path": []}
+{"answers": "Banks - Regional", "entities": ["USB", "COMPANY"], "qText": "What is the Industry of $USB?", "qId": 229, "freebaseKey": "USB", "freebaseKeyCands": ["USB"], "dep_path": []}
+{"answers": "Financial Services", "entities": ["PGR", "COMPANY"], "qText": "What is the Sector of $PGR?", "qId": 387, "freebaseKey": "PGR", "freebaseKeyCands": ["PGR"], "dep_path": []}
+{"answers": "Mid Cap/Growth", "entities": ["NVR", "COMPANY"], "qText": "What is the Equity Style of $NVR?", "qId": 1088, "freebaseKey": "NVR", "freebaseKeyCands": ["NVR"], "dep_path": []}
+{"answers": "Energy", "entities": ["FTI", "COMPANY"], "qText": "What is the Sector of $FTI?", "qId": 1398, "freebaseKey": "FTI", "freebaseKeyCands": ["FTI"], "dep_path": []}
+{"answers": "Industrials", "entities": ["LHX", "COMPANY"], "qText": "What is the Sector of $LHX?", "qId": 375, "freebaseKey": "LHX", "freebaseKeyCands": ["LHX"], "dep_path": []}
+{"answers": "Financial Services", "entities": ["PRU", "COMPANY"], "qText": "What is the Sector of $PRU?", "qId": 495, "freebaseKey": "PRU", "freebaseKeyCands": ["PRU"], "dep_path": []}
+{"answers": "Large Cap/Value", "entities": ["KMB", "COMPANY"], "qText": "What is the Equity Style of $KMB?", "qId": 380, "freebaseKey": "KMB", "freebaseKeyCands": ["KMB"], "dep_path": []}
+{"answers": "Consumer Cyclical", "entities": ["BKNG", "COMPANY"], "qText": "What is the Sector of $BKNG?", "qId": 216, "freebaseKey": "BKNG", "freebaseKeyCands": ["BKNG"], "dep_path": []}
+{"answers": "Large Cap/Value", "entities": ["XOM", "COMPANY"], "qText": "What is the Equity Style of $XOM?", "qId": 53, "freebaseKey": "XOM", "freebaseKeyCands": ["XOM"], "dep_path": []}
+{"answers": "Financial Services", "entities": ["TFC", "COMPANY"], "qText": "What is the Sector of $TFC?", "qId": 258, "freebaseKey": "TFC", "freebaseKeyCands": ["TFC"], "dep_path": []}
+{"answers": "Industrials", "entities": ["FDX", "COMPANY"], "qText": "What is the Sector of $FDX?", "qId": 501, "freebaseKey": "FDX", "freebaseKeyCands": ["FDX"], "dep_path": []}
+{"answers": "Large Cap/Growth", "entities": ["CHTR", "COMPANY"], "qText": "What is the Equity Style of $CHTR?", "qId": 215, "freebaseKey": "CHTR", "freebaseKeyCands": ["CHTR"], "dep_path": []}
+{"answers": "Mid Cap/Blend", "entities": ["CBOE", "COMPANY"], "qText": "What is the Equity Style of $CBOE?", "qId": 1076, "freebaseKey": "CBOE", "freebaseKeyCands": ["CBOE"], "dep_path": []}
+{"answers": "Healthcare", "entities": ["MDT", "COMPANY"], "qText": "What is the Sector of $MDT?", "qId": 111, "freebaseKey": "MDT", "freebaseKeyCands": ["MDT"], "dep_path": []}
+{"answers": "Packaged Foods", "entities": ["K", "COMPANY"], "qText": "What is the Industry of $K?", "qId": 958, "freebaseKey": "K", "freebaseKeyCands": ["K"], "dep_path": []}
+{"answers": "Mid Cap/Growth", "entities": ["PAYC", "COMPANY"], "qText": "What is the Equity Style of $PAYC?", "qId": 1004, "freebaseKey": "PAYC", "freebaseKeyCands": ["PAYC"], "dep_path": []}
+{"answers": "Specialty Chemicals", "entities": ["PPG", "COMPANY"], "qText": "What is the Industry of $PPG?", "qId": 637, "freebaseKey": "PPG", "freebaseKeyCands": ["PPG"], "dep_path": []}
+{"answers": "Healthcare", "entities": ["BIIB", "COMPANY"], "qText": "What is the Sector of $BIIB?", "qId": 330, "freebaseKey": "BIIB", "freebaseKeyCands": ["BIIB"], "dep_path": []}
+{"answers": "Mid Cap/Blend", "entities": ["HSIC", "COMPANY"], "qText": "What is the Equity Style of $HSIC?", "qId": 1253, "freebaseKey": "HSIC", "freebaseKeyCands": ["HSIC"], "dep_path": []}
+{"answers": "Consumer Cyclical", "entities": ["UA", "COMPANY"], "qText": "What is the Sector of $UA?", "qId": 1509, "freebaseKey": "UA", "freebaseKeyCands": ["UA"], "dep_path": []}
+{"answers": "Aerospace & Defense", "entities": ["LHX", "COMPANY"], "qText": "What is the Industry of $LHX?", "qId": 376, "freebaseKey": "LHX", "freebaseKeyCands": ["LHX"], "dep_path": []}
+{"answers": "Large Cap/Value", "entities": ["WMT", "COMPANY"], "qText": "What is the Equity Style of $WMT?", "qId": 101, "freebaseKey": "WMT", "freebaseKeyCands": ["WMT"], "dep_path": []}
+{"answers": "Large Cap/Growth", "entities": ["ISRG", "COMPANY"], "qText": "What is the Equity Style of $ISRG?", "qId": 281, "freebaseKey": "ISRG", "freebaseKeyCands": ["ISRG"], "dep_path": []}
+{"answers": "Large Cap/Blend", "entities": ["SRE", "COMPANY"], "qText": "What is the Equity Style of $SRE?", "qId": 422, "freebaseKey": "SRE", "freebaseKeyCands": ["SRE"], "dep_path": []}
+{"answers": "Mid Cap/Value", "entities": ["CNP", "COMPANY"], "qText": "What is the Equity Style of $CNP?", "qId": 1109, "freebaseKey": "CNP", "freebaseKeyCands": ["CNP"], "dep_path": []}
+{"answers": "Utilities", "entities": ["NEE", "COMPANY"], "qText": "What is the Sector of $NEE?", "qId": 129, "freebaseKey": "NEE", "freebaseKeyCands": ["NEE"], "dep_path": []}
+{"answers": "Technology", "entities": ["APH", "COMPANY"], "qText": "What is the Sector of $APH?", "qId": 600, "freebaseKey": "APH", "freebaseKeyCands": ["APH"], "dep_path": []}
+{"answers": "Large Cap/Blend", "entities": ["PG", "COMPANY"], "qText": "What is the Equity Style of $PG?", "qId": 32, "freebaseKey": "PG", "freebaseKeyCands": ["PG"], "dep_path": []}
+{"answers": "Mid Cap/Growth", "entities": ["KSU", "COMPANY"], "qText": "What is the Equity Style of $KSU?", "qId": 926, "freebaseKey": "KSU", "freebaseKeyCands": ["KSU"], "dep_path": []}
+{"answers": "Utilities", "entities": ["NI", "COMPANY"], "qText": "What is the Sector of $NI?", "qId": 1233, "freebaseKey": "NI", "freebaseKeyCands": ["NI"], "dep_path": []}
+{"answers": "Communication Services", "entities": ["CMCSA", "COMPANY"], "qText": "What is the Sector of $CMCSA?", "qId": 66, "freebaseKey": "CMCSA", "freebaseKeyCands": ["CMCSA"], "dep_path": []}
+{"answers": "Restaurants", "entities": ["MCD", "COMPANY"], "qText": "What is the Industry of $MCD?", "qId": 106, "freebaseKey": "MCD", "freebaseKeyCands": ["MCD"], "dep_path": []}
+{"answers": "Auto Manufacturers", "entities": ["GM", "COMPANY"], "qText": "What is the Industry of $GM?", "qId": 439, "freebaseKey": "GM", "freebaseKeyCands": ["GM"], "dep_path": []}
+{"answers": "Tools & Accessories", "entities": ["SWK", "COMPANY"], "qText": "What is the Industry of $SWK?", "qId": 706, "freebaseKey": "SWK", "freebaseKeyCands": ["SWK"], "dep_path": []}
+{"answers": "Oil & Gas Midstream", "entities": ["WMB", "COMPANY"], "qText": "What is the Industry of $WMB?", "qId": 688, "freebaseKey": "WMB", "freebaseKeyCands": ["WMB"], "dep_path": []}
+{"answers": "Mid Cap/Value", "entities": ["CAG", "COMPANY"], "qText": "What is the Equity Style of $CAG?", "qId": 992, "freebaseKey": "CAG", "freebaseKeyCands": ["CAG"], "dep_path": []}
+{"answers": "Recreational Vehicles", "entities": ["HOG", "COMPANY"], "qText": "What is the Industry of $HOG?", "qId": 1465, "freebaseKey": "HOG", "freebaseKeyCands": ["HOG"], "dep_path": []}
+{"answers": "Diagnostics & Research", "entities": ["IQV", "COMPANY"], "qText": "What is the Industry of $IQV?", "qId": 616, "freebaseKey": "IQV", "freebaseKeyCands": ["IQV"], "dep_path": []}
+{"answers": "Utilities - Regulated Electric", "entities": ["SO", "COMPANY"], "qText": "What is the Industry of $SO?", "qId": 262, "freebaseKey": "SO", "freebaseKeyCands": ["SO"], "dep_path": []}
+{"answers": "Large Cap/Growth", "entities": ["VRSN", "COMPANY"], "qText": "What is the Equity Style of $VRSN?", "qId": 797, "freebaseKey": "VRSN", "freebaseKeyCands": ["VRSN"], "dep_path": []}
+{"answers": "Technology", "entities": ["QCOM", "COMPANY"], "qText": "What is the Sector of $QCOM?", "qId": 186, "freebaseKey": "QCOM", "freebaseKeyCands": ["QCOM"], "dep_path": []}
+{"answers": "Large Cap/Value", "entities": ["DAL", "COMPANY"], "qText": "What is the Equity Style of $DAL?", "qId": 536, "freebaseKey": "DAL", "freebaseKeyCands": ["DAL"], "dep_path": []}
+{"answers": "Real Estate", "entities": ["UDR", "COMPANY"], "qText": "What is the Sector of $UDR?", "qId": 1017, "freebaseKey": "UDR", "freebaseKeyCands": ["UDR"], "dep_path": []}
+{"answers": "Financial Services", "entities": ["PNC", "COMPANY"], "qText": "What is the Sector of $PNC?", "qId": 291, "freebaseKey": "PNC", "freebaseKeyCands": ["PNC"], "dep_path": []}
+{"answers": "Insurance - Life", "entities": ["MET", "COMPANY"], "qText": "What is the Industry of $MET?", "qId": 460, "freebaseKey": "MET", "freebaseKeyCands": ["MET"], "dep_path": []}
+{"answers": "Large Cap/Value", "entities": ["PFE", "COMPANY"], "qText": "What is the Equity Style of $PFE?", "qId": 77, "freebaseKey": "PFE", "freebaseKeyCands": ["PFE"], "dep_path": []}
+{"answers": "Consumer Defensive", "entities": ["WMT", "COMPANY"], "qText": "What is the Sector of $WMT?", "qId": 99, "freebaseKey": "WMT", "freebaseKeyCands": ["WMT"], "dep_path": []}
+{"answers": "Utilities", "entities": ["D", "COMPANY"], "qText": "What is the Sector of $D?", "qId": 267, "freebaseKey": "D", "freebaseKeyCands": ["D"], "dep_path": []}
+{"answers": "Medical Instruments & Supplies", "entities": ["VAR", "COMPANY"], "qText": "What is the Industry of $VAR?", "qId": 1117, "freebaseKey": "VAR", "freebaseKeyCands": ["VAR"], "dep_path": []}
+{"answers": "Utilities - Regulated Electric", "entities": ["WEC", "COMPANY"], "qText": "What is the Industry of $WEC?", "qId": 577, "freebaseKey": "WEC", "freebaseKeyCands": ["WEC"], "dep_path": []}
+{"answers": "Mid Cap/Blend", "entities": ["WAB", "COMPANY"], "qText": "What is the Equity Style of $WAB?", "qId": 1070, "freebaseKey": "WAB", "freebaseKeyCands": ["WAB"], "dep_path": []}
+{"answers": "Mid Cap/Value", "entities": ["NI", "COMPANY"], "qText": "What is the Equity Style of $NI?", "qId": 1235, "freebaseKey": "NI", "freebaseKeyCands": ["NI"], "dep_path": []}
+{"answers": "Large Cap/Blend", "entities": ["MSI", "COMPANY"], "qText": "What is the Equity Style of $MSI?", "qId": 593, "freebaseKey": "MSI", "freebaseKeyCands": ["MSI"], "dep_path": []}
+{"answers": "Financial Services", "entities": ["WU", "COMPANY"], "qText": "What is the Sector of $WU?", "qId": 1239, "freebaseKey": "WU", "freebaseKeyCands": ["WU"], "dep_path": []}
+{"answers": "Packaging & Containers", "entities": ["WRK", "COMPANY"], "qText": "What is the Industry of $WRK?", "qId": 1261, "freebaseKey": "WRK", "freebaseKeyCands": ["WRK"], "dep_path": []}
+{"answers": "Healthcare", "entities": ["ABBV", "COMPANY"], "qText": "What is the Sector of $ABBV?", "qId": 123, "freebaseKey": "ABBV", "freebaseKeyCands": ["ABBV"], "dep_path": []}
+{"answers": "Large Cap/Blend", "entities": ["HLT", "COMPANY"], "qText": "What is the Equity Style of $HLT?", "qId": 575, "freebaseKey": "HLT", "freebaseKeyCands": ["HLT"], "dep_path": []}
+{"answers": "Financial Data & Stock Exchanges", "entities": ["ICE", "COMPANY"], "qText": "What is the Industry of $ICE?", "qId": 364, "freebaseKey": "ICE", "freebaseKeyCands": ["ICE"], "dep_path": []}
+{"answers": "Mid Cap/Value", "entities": ["ABC", "COMPANY"], "qText": "What is the Equity Style of $ABC?", "qId": 1043, "freebaseKey": "ABC", "freebaseKeyCands": ["ABC"], "dep_path": []}
+{"answers": "Trucking", "entities": ["ODFL", "COMPANY"], "qText": "What is the Industry of $ODFL?", "qId": 1060, "freebaseKey": "ODFL", "freebaseKeyCands": ["ODFL"], "dep_path": []}
+{"answers": "Information Technology Services", "entities": ["IBM", "COMPANY"], "qText": "What is the Industry of $IBM?", "qId": 139, "freebaseKey": "IBM", "freebaseKeyCands": ["IBM"], "dep_path": []}
+{"answers": "Large Cap/Blend", "entities": ["ROK", "COMPANY"], "qText": "What is the Equity Style of $ROK?", "qId": 749, "freebaseKey": "ROK", "freebaseKeyCands": ["ROK"], "dep_path": []}
+{"answers": "Technology", "entities": ["FTV", "COMPANY"], "qText": "What is the Sector of $FTV?", "qId": 762, "freebaseKey": "FTV", "freebaseKeyCands": ["FTV"], "dep_path": []}
+{"answers": "Mid Cap/Blend", "entities": ["XRAY", "COMPANY"], "qText": "What is the Equity Style of $XRAY?", "qId": 1151, "freebaseKey": "XRAY", "freebaseKeyCands": ["XRAY"], "dep_path": []}
+{"answers": "Mid Cap/Blend", "entities": ["PWR", "COMPANY"], "qText": "What is the Equity Style of $PWR?", "qId": 1454, "freebaseKey": "PWR", "freebaseKeyCands": ["PWR"], "dep_path": []}
+{"answers": "Auto Manufacturers", "entities": ["F", "COMPANY"], "qText": "What is the Industry of $F?", "qId": 583, "freebaseKey": "F", "freebaseKeyCands": ["F"], "dep_path": []}
+{"answers": "Mid Cap/Blend", "entities": ["DRI", "COMPANY"], "qText": "What is the Equity Style of $DRI?", "qId": 1016, "freebaseKey": "DRI", "freebaseKeyCands": ["DRI"], "dep_path": []}
+{"answers": "Financial Services", "entities": ["PBCT", "COMPANY"], "qText": "What is the Sector of $PBCT?", "qId": 1401, "freebaseKey": "PBCT", "freebaseKeyCands": ["PBCT"], "dep_path": []}
+{"answers": "Tobacco", "entities": ["MO", "COMPANY"], "qText": "What is the Industry of $MO?", "qId": 211, "freebaseKey": "MO", "freebaseKeyCands": ["MO"], "dep_path": []}
+{"answers": "Financial Data & Stock Exchanges", "entities": ["MCO", "COMPANY"], "qText": "What is the Industry of $MCO?", "qId": 424, "freebaseKey": "MCO", "freebaseKeyCands": ["MCO"], "dep_path": []}
+{"answers": "Energy", "entities": ["COG", "COMPANY"], "qText": "What is the Sector of $COG?", "qId": 1434, "freebaseKey": "COG", "freebaseKeyCands": ["COG"], "dep_path": []}
+{"answers": "Mid Cap/Value", "entities": ["HAL", "COMPANY"], "qText": "What is the Equity Style of $HAL?", "qId": 881, "freebaseKey": "HAL", "freebaseKeyCands": ["HAL"], "dep_path": []}
+{"answers": "Utilities", "entities": ["EVRG", "COMPANY"], "qText": "What is the Sector of $EVRG?", "qId": 969, "freebaseKey": "EVRG", "freebaseKeyCands": ["EVRG"], "dep_path": []}
+{"answers": "Large Cap/Blend", "entities": ["ANTM", "COMPANY"], "qText": "What is the Equity Style of $ANTM?", "qId": 245, "freebaseKey": "ANTM", "freebaseKeyCands": ["ANTM"], "dep_path": []}
+{"answers": "Large Cap/Value", "entities": ["FOXA", "COMPANY"], "qText": "What is the Equity Style of $FOXA?", "qId": 1127, "freebaseKey": "FOXA", "freebaseKeyCands": ["FOXA"], "dep_path": []}
+{"answers": "REIT - Healthcare Facilities", "entities": ["WELL", "COMPANY"], "qText": "What is the Industry of $WELL?", "qId": 517, "freebaseKey": "WELL", "freebaseKeyCands": ["WELL"], "dep_path": []}
+{"answers": "Mid Cap/Growth", "entities": ["TFX", "COMPANY"], "qText": "What is the Equity Style of $TFX?", "qId": 914, "freebaseKey": "TFX", "freebaseKeyCands": ["TFX"], "dep_path": []}
+{"answers": "Large Cap/Growth", "entities": ["ADSK", "COMPANY"], "qText": "What is the Equity Style of $ADSK?", "qId": 419, "freebaseKey": "ADSK", "freebaseKeyCands": ["ADSK"], "dep_path": []}
+{"answers": "Mid Cap/Growth", "entities": ["FTNT", "COMPANY"], "qText": "What is the Equity Style of $FTNT?", "qId": 953, "freebaseKey": "FTNT", "freebaseKeyCands": ["FTNT"], "dep_path": []}
+{"answers": "Large Cap/Value", "entities": ["INTC", "COMPANY"], "qText": "What is the Equity Style of $INTC?", "qId": 38, "freebaseKey": "INTC", "freebaseKeyCands": ["INTC"], "dep_path": []}
+{"answers": "Communication Services", "entities": ["GOOG", "COMPANY"], "qText": "What is the Sector of $GOOG?", "qId": 15, "freebaseKey": "GOOG", "freebaseKeyCands": ["GOOG"], "dep_path": []}
+{"answers": "Oil & Gas Integrated", "entities": ["CVX", "COMPANY"], "qText": "What is the Industry of $CVX?", "qId": 70, "freebaseKey": "CVX", "freebaseKeyCands": ["CVX"], "dep_path": []}
+{"answers": "Large Cap/Value", "entities": ["PM", "COMPANY"], "qText": "What is the Equity Style of $PM?", "qId": 128, "freebaseKey": "PM", "freebaseKeyCands": ["PM"], "dep_path": []}
+{"answers": "Mid Cap/Value", "entities": ["HBI", "COMPANY"], "qText": "What is the Equity Style of $HBI?", "qId": 1472, "freebaseKey": "HBI", "freebaseKeyCands": ["HBI"], "dep_path": []}
+{"answers": "Specialty Industrial Machinery", "entities": ["ARNC", "COMPANY"], "qText": "What is the Industry of $ARNC?", "qId": 1153, "freebaseKey": "ARNC", "freebaseKeyCands": ["ARNC"], "dep_path": []}
+{"answers": "Information Technology Services", "entities": ["XRX", "COMPANY"], "qText": "What is the Industry of $XRX?", "qId": 1405, "freebaseKey": "XRX", "freebaseKeyCands": ["XRX"], "dep_path": []}
+{"answers": "Mid Cap/Value", "entities": ["IPG", "COMPANY"], "qText": "What is the Equity Style of $IPG?", "qId": 1307, "freebaseKey": "IPG", "freebaseKeyCands": ["IPG"], "dep_path": []}
+{"answers": "Large Cap/Value", "entities": ["F", "COMPANY"], "qText": "What is the Equity Style of $F?", "qId": 584, "freebaseKey": "F", "freebaseKeyCands": ["F"], "dep_path": []}
+{"answers": "Large Cap/Value", "entities": ["MO", "COMPANY"], "qText": "What is the Equity Style of $MO?", "qId": 212, "freebaseKey": "MO", "freebaseKeyCands": ["MO"], "dep_path": []}
+{"answers": "Consumer Cyclical", "entities": ["NKE", "COMPANY"], "qText": "What is the Sector of $NKE?", "qId": 147, "freebaseKey": "NKE", "freebaseKeyCands": ["NKE"], "dep_path": []}
+{"answers": "Semiconductors", "entities": ["QRVO", "COMPANY"], "qText": "What is the Industry of $QRVO?", "qId": 1177, "freebaseKey": "QRVO", "freebaseKeyCands": ["QRVO"], "dep_path": []}
+{"answers": "Specialty Chemicals", "entities": ["ECL", "COMPANY"], "qText": "What is the Industry of $ECL?", "qId": 370, "freebaseKey": "ECL", "freebaseKeyCands": ["ECL"], "dep_path": []}
+{"answers": "Capital Markets", "entities": ["ETFC", "COMPANY"], "qText": "What is the Industry of $ETFC?", "qId": 1288, "freebaseKey": "ETFC", "freebaseKeyCands": ["ETFC"], "dep_path": []}
+{"answers": "Oil & Gas E&P", "entities": ["EOG", "COMPANY"], "qText": "What is the Industry of $EOG?", "qId": 442, "freebaseKey": "EOG", "freebaseKeyCands": ["EOG"], "dep_path": []}
+{"answers": "Large Cap/Blend", "entities": ["UNP", "COMPANY"], "qText": "What is the Equity Style of $UNP?", "qId": 152, "freebaseKey": "UNP", "freebaseKeyCands": ["UNP"], "dep_path": []}
+{"answers": "Drug Manufacturers - General", "entities": ["BMY", "COMPANY"], "qText": "What is the Industry of $BMY?", "qId": 115, "freebaseKey": "BMY", "freebaseKeyCands": ["BMY"], "dep_path": []}
+{"answers": "Large Cap/Blend", "entities": ["LLY", "COMPANY"], "qText": "What is the Equity Style of $LLY?", "qId": 170, "freebaseKey": "LLY", "freebaseKeyCands": ["LLY"], "dep_path": []}
+{"answers": "Large Cap/Blend", "entities": ["HD", "COMPANY"], "qText": "What is the Equity Style of $HD?", "qId": 50, "freebaseKey": "HD", "freebaseKeyCands": ["HD"], "dep_path": []}
+{"answers": "Real Estate", "entities": ["WY", "COMPANY"], "qText": "What is the Sector of $WY?", "qId": 771, "freebaseKey": "WY", "freebaseKeyCands": ["WY"], "dep_path": []}
+{"answers": "Industrials", "entities": ["VRSK", "COMPANY"], "qText": "What is the Sector of $VRSK?", "qId": 645, "freebaseKey": "VRSK", "freebaseKeyCands": ["VRSK"], "dep_path": []}
+{"answers": "Auto Parts", "entities": ["LKQ", "COMPANY"], "qText": "What is the Industry of $LKQ?", "qId": 1270, "freebaseKey": "LKQ", "freebaseKeyCands": ["LKQ"], "dep_path": []}
+{"answers": "Large Cap/Growth", "entities": ["GPN", "COMPANY"], "qText": "What is the Equity Style of $GPN?", "qId": 326, "freebaseKey": "GPN", "freebaseKeyCands": ["GPN"], "dep_path": []}
+{"answers": "Industrials", "entities": ["J", "COMPANY"], "qText": "What is the Sector of $J?", "qId": 1101, "freebaseKey": "J", "freebaseKeyCands": ["J"], "dep_path": []}
+{"answers": "Healthcare", "entities": ["UNH", "COMPANY"], "qText": "What is the Sector of $UNH?", "qId": 39, "freebaseKey": "UNH", "freebaseKeyCands": ["UNH"], "dep_path": []}
+{"answers": "Utilities", "entities": ["CMS", "COMPANY"], "qText": "What is the Sector of $CMS?", "qId": 882, "freebaseKey": "CMS", "freebaseKeyCands": ["CMS"], "dep_path": []}
+{"answers": "Large Cap/Value", "entities": ["MS", "COMPANY"], "qText": "What is the Equity Style of $MS?", "qId": 284, "freebaseKey": "MS", "freebaseKeyCands": ["MS"], "dep_path": []}
+{"answers": "Large Cap/Blend", "entities": ["CME", "COMPANY"], "qText": "What is the Equity Style of $CME?", "qId": 236, "freebaseKey": "CME", "freebaseKeyCands": ["CME"], "dep_path": []}
+{"answers": "Technology", "entities": ["SNPS", "COMPANY"], "qText": "What is the Sector of $SNPS?", "qId": 729, "freebaseKey": "SNPS", "freebaseKeyCands": ["SNPS"], "dep_path": []}
+{"answers": "Healthcare", "entities": ["PRGO", "COMPANY"], "qText": "What is the Sector of $PRGO?", "qId": 1371, "freebaseKey": "PRGO", "freebaseKeyCands": ["PRGO"], "dep_path": []}
+{"answers": "Large Cap/Value", "entities": ["TSN", "COMPANY"], "qText": "What is the Equity Style of $TSN?", "qId": 743, "freebaseKey": "TSN", "freebaseKeyCands": ["TSN"], "dep_path": []}
+{"answers": "Consumer Cyclical", "entities": ["ORLY", "COMPANY"], "qText": "What is the Sector of $ORLY?", "qId": 618, "freebaseKey": "ORLY", "freebaseKeyCands": ["ORLY"], "dep_path": []}
+{"answers": "Financial Services", "entities": ["SPGI", "COMPANY"], "qText": "What is the Sector of $SPGI?", "qId": 246, "freebaseKey": "SPGI", "freebaseKeyCands": ["SPGI"], "dep_path": []}
+{"answers": "Asset Management", "entities": ["AMP", "COMPANY"], "qText": "What is the Industry of $AMP?", "qId": 775, "freebaseKey": "AMP", "freebaseKeyCands": ["AMP"], "dep_path": []}
+{"answers": "Pharmaceutical Retailers", "entities": ["WBA", "COMPANY"], "qText": "What is the Industry of $WBA?", "qId": 478, "freebaseKey": "WBA", "freebaseKeyCands": ["WBA"], "dep_path": []}
+{"answers": "Large Cap/Blend", "entities": ["BF.B", "COMPANY"], "qText": "What is the Equity Style of $BF.B?", "qId": 1145, "freebaseKey": "BF.B", "freebaseKeyCands": ["BF.B"], "dep_path": []}
+{"answers": "Large Cap/Blend", "entities": ["LOW", "COMPANY"], "qText": "What is the Equity Style of $LOW?", "qId": 194, "freebaseKey": "LOW", "freebaseKeyCands": ["LOW"], "dep_path": []}
+{"answers": "Real Estate", "entities": ["O", "COMPANY"], "qText": "What is the Sector of $O?", "qId": 681, "freebaseKey": "O", "freebaseKeyCands": ["O"], "dep_path": []}
+{"answers": "Healthcare", "entities": ["IQV", "COMPANY"], "qText": "What is the Sector of $IQV?", "qId": 615, "freebaseKey": "IQV", "freebaseKeyCands": ["IQV"], "dep_path": []}
+{"answers": "Software - Infrastructure", "entities": ["AKAM", "COMPANY"], "qText": "What is the Industry of $AKAM?", "qId": 985, "freebaseKey": "AKAM", "freebaseKeyCands": ["AKAM"], "dep_path": []}
+{"answers": "Industrials", "entities": ["EXPD", "COMPANY"], "qText": "What is the Sector of $EXPD?", "qId": 1164, "freebaseKey": "EXPD", "freebaseKeyCands": ["EXPD"], "dep_path": []}
+{"answers": "Mid Cap/Growth", "entities": ["STE", "COMPANY"], "qText": "What is the Equity Style of $STE?", "qId": 1046, "freebaseKey": "STE", "freebaseKeyCands": ["STE"], "dep_path": []}
+{"answers": "Entertainment", "entities": ["NFLX", "COMPANY"], "qText": "What is the Industry of $NFLX?", "qId": 103, "freebaseKey": "NFLX", "freebaseKeyCands": ["NFLX"], "dep_path": []}
+{"answers": "Residential Construction", "entities": ["DHI", "COMPANY"], "qText": "What is the Industry of $DHI?", "qId": 835, "freebaseKey": "DHI", "freebaseKeyCands": ["DHI"], "dep_path": []}
+{"answers": "Banks - Regional", "entities": ["TFC", "COMPANY"], "qText": "What is the Industry of $TFC?", "qId": 259, "freebaseKey": "TFC", "freebaseKeyCands": ["TFC"], "dep_path": []}
+{"answers": "Mid Cap/Value", "entities": ["PFG", "COMPANY"], "qText": "What is the Equity Style of $PFG?", "qId": 1028, "freebaseKey": "PFG", "freebaseKeyCands": ["PFG"], "dep_path": []}
+{"answers": "Aerospace & Defense", "entities": ["NOC", "COMPANY"], "qText": "What is the Industry of $NOC?", "qId": 343, "freebaseKey": "NOC", "freebaseKeyCands": ["NOC"], "dep_path": []}
+{"answers": "Real Estate", "entities": ["SBAC", "COMPANY"], "qText": "What is the Sector of $SBAC?", "qId": 543, "freebaseKey": "SBAC", "freebaseKeyCands": ["SBAC"], "dep_path": []}
+{"answers": "Consumer Defensive", "entities": ["KO", "COMPANY"], "qText": "What is the Sector of $KO?", "qId": 60, "freebaseKey": "KO", "freebaseKeyCands": ["KO"], "dep_path": []}
+{"answers": "Industrials", "entities": ["ADP", "COMPANY"], "qText": "What is the Sector of $ADP?", "qId": 225, "freebaseKey": "ADP", "freebaseKeyCands": ["ADP"], "dep_path": []}
+{"answers": "Large Cap/Growth", "entities": ["AMD", "COMPANY"], "qText": "What is the Equity Style of $AMD?", "qId": 311, "freebaseKey": "AMD", "freebaseKeyCands": ["AMD"], "dep_path": []}
+{"answers": "Financial Services", "entities": ["WLTW", "COMPANY"], "qText": "What is the Sector of $WLTW?", "qId": 657, "freebaseKey": "WLTW", "freebaseKeyCands": ["WLTW"], "dep_path": []}
+{"answers": "Real Estate", "entities": ["FRT", "COMPANY"], "qText": "What is the Sector of $FRT?", "qId": 1323, "freebaseKey": "FRT", "freebaseKeyCands": ["FRT"], "dep_path": []}
+{"answers": "Oil & Gas Equipment & Services", "entities": ["NOV", "COMPANY"], "qText": "What is the Industry of $NOV?", "qId": 1333, "freebaseKey": "NOV", "freebaseKeyCands": ["NOV"], "dep_path": []}
+{"answers": "Capital Markets", "entities": ["MS", "COMPANY"], "qText": "What is the Industry of $MS?", "qId": 283, "freebaseKey": "MS", "freebaseKeyCands": ["MS"], "dep_path": []}
+{"answers": "Consumer Cyclical", "entities": ["HOG", "COMPANY"], "qText": "What is the Sector of $HOG?", "qId": 1464, "freebaseKey": "HOG", "freebaseKeyCands": ["HOG"], "dep_path": []}
+{"answers": "Communication Services", "entities": ["FOXA", "COMPANY"], "qText": "What is the Sector of $FOXA?", "qId": 1125, "freebaseKey": "FOXA", "freebaseKeyCands": ["FOXA"], "dep_path": []}
+{"answers": "Mid Cap/Value", "entities": ["MHK", "COMPANY"], "qText": "What is the Equity Style of $MHK?", "qId": 1349, "freebaseKey": "MHK", "freebaseKeyCands": ["MHK"], "dep_path": []}
+{"answers": "Financial Services", "entities": ["MET", "COMPANY"], "qText": "What is the Sector of $MET?", "qId": 459, "freebaseKey": "MET", "freebaseKeyCands": ["MET"], "dep_path": []}
+{"answers": "Large Cap/Growth", "entities": ["ADP", "COMPANY"], "qText": "What is the Equity Style of $ADP?", "qId": 227, "freebaseKey": "ADP", "freebaseKeyCands": ["ADP"], "dep_path": []}
+{"answers": "Communication Services", "entities": ["GOOGL", "COMPANY"], "qText": "What is the Sector of $GOOGL?", "qId": 12, "freebaseKey": "GOOGL", "freebaseKeyCands": ["GOOGL"], "dep_path": []}
+{"answers": "Large Cap/Value", "entities": ["VZ", "COMPANY"], "qText": "What is the Equity Style of $VZ?", "qId": 59, "freebaseKey": "VZ", "freebaseKeyCands": ["VZ"], "dep_path": []}
+{"answers": "Insurance - Property & Casualty", "entities": ["CINF", "COMPANY"], "qText": "What is the Industry of $CINF?", "qId": 922, "freebaseKey": "CINF", "freebaseKeyCands": ["CINF"], "dep_path": []}
+{"answers": "Large Cap/Growth", "entities": ["AMZN", "COMPANY"], "qText": "What is the Equity Style of $AMZN?", "qId": 8, "freebaseKey": "AMZN", "freebaseKeyCands": ["AMZN"], "dep_path": []}
+{"answers": "Mid Cap/Value", "entities": ["HPE", "COMPANY"], "qText": "What is the Equity Style of $HPE?", "qId": 896, "freebaseKey": "HPE", "freebaseKeyCands": ["HPE"], "dep_path": []}
+{"answers": "Real Estate", "entities": ["IRM", "COMPANY"], "qText": "What is the Sector of $IRM?", "qId": 1302, "freebaseKey": "IRM", "freebaseKeyCands": ["IRM"], "dep_path": []}
+{"answers": "Healthcare", "entities": ["MTD", "COMPANY"], "qText": "What is the Sector of $MTD?", "qId": 900, "freebaseKey": "MTD", "freebaseKeyCands": ["MTD"], "dep_path": []}
+{"answers": "Energy", "entities": ["MPC", "COMPANY"], "qText": "What is the Sector of $MPC?", "qId": 498, "freebaseKey": "MPC", "freebaseKeyCands": ["MPC"], "dep_path": []}
+{"answers": "Consumer Defensive", "entities": ["STZ", "COMPANY"], "qText": "What is the Sector of $STZ?", "qId": 537, "freebaseKey": "STZ", "freebaseKeyCands": ["STZ"], "dep_path": []}
+{"answers": "Basic Materials", "entities": ["LIN", "COMPANY"], "qText": "What is the Sector of $LIN?", "qId": 165, "freebaseKey": "LIN", "freebaseKeyCands": ["LIN"], "dep_path": []}
+{"answers": "Financial Services", "entities": ["GS", "COMPANY"], "qText": "What is the Sector of $GS?", "qId": 240, "freebaseKey": "GS", "freebaseKeyCands": ["GS"], "dep_path": []}
+{"answers": "Real Estate", "entities": ["PEAK", "COMPANY"], "qText": "What is the Sector of $PEAK?", "qId": 909, "freebaseKey": "PEAK", "freebaseKeyCands": ["PEAK"], "dep_path": []}
+{"answers": "Credit Services", "entities": ["AXP", "COMPANY"], "qText": "What is the Industry of $AXP?", "qId": 202, "freebaseKey": "AXP", "freebaseKeyCands": ["AXP"], "dep_path": []}
+{"answers": "Large Cap/Blend", "entities": ["ACN", "COMPANY"], "qText": "What is the Equity Style of $ACN?", "qId": 137, "freebaseKey": "ACN", "freebaseKeyCands": ["ACN"], "dep_path": []}
+{"answers": "Mid Cap/Blend", "entities": ["BR", "COMPANY"], "qText": "What is the Equity Style of $BR?", "qId": 1079, "freebaseKey": "BR", "freebaseKeyCands": ["BR"], "dep_path": []}
+{"answers": "Healthcare", "entities": ["CVS", "COMPANY"], "qText": "What is the Sector of $CVS?", "qId": 195, "freebaseKey": "CVS", "freebaseKeyCands": ["CVS"], "dep_path": []}
+{"answers": "Utilities - Regulated Electric", "entities": ["NEE", "COMPANY"], "qText": "What is the Industry of $NEE?", "qId": 130, "freebaseKey": "NEE", "freebaseKeyCands": ["NEE"], "dep_path": []}
+{"answers": "Industrials", "entities": ["ALK", "COMPANY"], "qText": "What is the Sector of $ALK?", "qId": 1356, "freebaseKey": "ALK", "freebaseKeyCands": ["ALK"], "dep_path": []}
+{"answers": "Industrials", "entities": ["ROP", "COMPANY"], "qText": "What is the Sector of $ROP?", "qId": 462, "freebaseKey": "ROP", "freebaseKeyCands": ["ROP"], "dep_path": []}
+{"answers": "Financial Services", "entities": ["GL", "COMPANY"], "qText": "What is the Sector of $GL?", "qId": 1236, "freebaseKey": "GL", "freebaseKeyCands": ["GL"], "dep_path": []}
+{"answers": "Banks - Regional", "entities": ["RF", "COMPANY"], "qText": "What is the Industry of $RF?", "qId": 988, "freebaseKey": "RF", "freebaseKeyCands": ["RF"], "dep_path": []}
+{"answers": "Specialty Industrial Machinery", "entities": ["HON", "COMPANY"], "qText": "What is the Industry of $HON?", "qId": 145, "freebaseKey": "HON", "freebaseKeyCands": ["HON"], "dep_path": []}
+{"answers": "Home Improvement Retail", "entities": ["HD", "COMPANY"], "qText": "What is the Industry of $HD?", "qId": 49, "freebaseKey": "HD", "freebaseKeyCands": ["HD"], "dep_path": []}
+{"answers": "Consumer Cyclical", "entities": ["DRI", "COMPANY"], "qText": "What is the Sector of $DRI?", "qId": 1014, "freebaseKey": "DRI", "freebaseKeyCands": ["DRI"], "dep_path": []}
+{"answers": "REIT - Specialty", "entities": ["CCI", "COMPANY"], "qText": "What is the Industry of $CCI?", "qId": 286, "freebaseKey": "CCI", "freebaseKeyCands": ["CCI"], "dep_path": []}
+{"answers": "Technology", "entities": ["QRVO", "COMPANY"], "qText": "What is the Sector of $QRVO?", "qId": 1176, "freebaseKey": "QRVO", "freebaseKeyCands": ["QRVO"], "dep_path": []}
+{"answers": "Insurance - Property & Casualty", "entities": ["TRV", "COMPANY"], "qText": "What is the Industry of $TRV?", "qId": 526, "freebaseKey": "TRV", "freebaseKeyCands": ["TRV"], "dep_path": []}
+{"answers": "Asset Management", "entities": ["STT", "COMPANY"], "qText": "What is the Industry of $STT?", "qId": 634, "freebaseKey": "STT", "freebaseKeyCands": ["STT"], "dep_path": []}
+{"answers": "Healthcare", "entities": ["AGN", "COMPANY"], "qText": "What is the Sector of $AGN?", "qId": 303, "freebaseKey": "AGN", "freebaseKeyCands": ["AGN"], "dep_path": []}
+{"answers": "Large Cap/Value", "entities": ["BK", "COMPANY"], "qText": "What is the Equity Style of $BK?", "qId": 494, "freebaseKey": "BK", "freebaseKeyCands": ["BK"], "dep_path": []}
+{"answers": "Semiconductors", "entities": ["SWKS", "COMPANY"], "qText": "What is the Industry of $SWKS?", "qId": 847, "freebaseKey": "SWKS", "freebaseKeyCands": ["SWKS"], "dep_path": []}
+{"answers": "Semiconductors", "entities": ["AVGO", "COMPANY"], "qText": "What is the Industry of $AVGO?", "qId": 154, "freebaseKey": "AVGO", "freebaseKeyCands": ["AVGO"], "dep_path": []}
+{"answers": "Mid Cap/Value", "entities": ["AAL", "COMPANY"], "qText": "What is the Equity Style of $AAL?", "qId": 1217, "freebaseKey": "AAL", "freebaseKeyCands": ["AAL"], "dep_path": []}
+{"answers": "Entertainment", "entities": ["CMCSA", "COMPANY"], "qText": "What is the Industry of $CMCSA?", "qId": 67, "freebaseKey": "CMCSA", "freebaseKeyCands": ["CMCSA"], "dep_path": []}
+{"answers": "Discount Stores", "entities": ["WMT", "COMPANY"], "qText": "What is the Industry of $WMT?", "qId": 100, "freebaseKey": "WMT", "freebaseKeyCands": ["WMT"], "dep_path": []}
+{"answers": "Utilities", "entities": ["PPL", "COMPANY"], "qText": "What is the Sector of $PPL?", "qId": 699, "freebaseKey": "PPL", "freebaseKeyCands": ["PPL"], "dep_path": []}
+{"answers": "Household & Personal Products", "entities": ["COTY", "COMPANY"], "qText": "What is the Industry of $COTY?", "qId": 1504, "freebaseKey": "COTY", "freebaseKeyCands": ["COTY"], "dep_path": []}
+{"answers": "Financial Services", "entities": ["AIG", "COMPANY"], "qText": "What is the Sector of $AIG?", "qId": 456, "freebaseKey": "AIG", "freebaseKeyCands": ["AIG"], "dep_path": []}
+{"answers": "Real Estate", "entities": ["VTR", "COMPANY"], "qText": "What is the Sector of $VTR?", "qId": 789, "freebaseKey": "VTR", "freebaseKeyCands": ["VTR"], "dep_path": []}
+{"answers": "Industrials", "entities": ["ARNC", "COMPANY"], "qText": "What is the Sector of $ARNC?", "qId": 1152, "freebaseKey": "ARNC", "freebaseKeyCands": ["ARNC"], "dep_path": []}
+{"answers": "Large Cap/Growth", "entities": ["TDG", "COMPANY"], "qText": "What is the Equity Style of $TDG?", "qId": 566, "freebaseKey": "TDG", "freebaseKeyCands": ["TDG"], "dep_path": []}
+{"answers": "Mid Cap/Blend", "entities": ["URI", "COMPANY"], "qText": "What is the Equity Style of $URI?", "qId": 1202, "freebaseKey": "URI", "freebaseKeyCands": ["URI"], "dep_path": []}
+{"answers": "Large Cap/Blend", "entities": ["HON", "COMPANY"], "qText": "What is the Equity Style of $HON?", "qId": 146, "freebaseKey": "HON", "freebaseKeyCands": ["HON"], "dep_path": []}
+{"answers": "Mid Cap/Value", "entities": ["WHR", "COMPANY"], "qText": "What is the Equity Style of $WHR?", "qId": 1301, "freebaseKey": "WHR", "freebaseKeyCands": ["WHR"], "dep_path": []}
+{"answers": "REIT - Specialty", "entities": ["SBAC", "COMPANY"], "qText": "What is the Industry of $SBAC?", "qId": 544, "freebaseKey": "SBAC", "freebaseKeyCands": ["SBAC"], "dep_path": []}
+{"answers": "Utilities - Regulated Electric", "entities": ["PPL", "COMPANY"], "qText": "What is the Industry of $PPL?", "qId": 700, "freebaseKey": "PPL", "freebaseKeyCands": ["PPL"], "dep_path": []}
+{"answers": "Software - Infrastructure", "entities": ["MSFT", "COMPANY"], "qText": "What is the Industry of $MSFT?", "qId": 1, "freebaseKey": "MSFT", "freebaseKeyCands": ["MSFT"], "dep_path": []}
+{"answers": "Technology", "entities": ["PAYC", "COMPANY"], "qText": "What is the Sector of $PAYC?", "qId": 1002, "freebaseKey": "PAYC", "freebaseKeyCands": ["PAYC"], "dep_path": []}
+{"answers": "Large Cap/Value", "entities": ["USB", "COMPANY"], "qText": "What is the Equity Style of $USB?", "qId": 230, "freebaseKey": "USB", "freebaseKeyCands": ["USB"], "dep_path": []}
+{"answers": "Large Cap/Blend", "entities": ["DG", "COMPANY"], "qText": "What is the Equity Style of $DG?", "qId": 470, "freebaseKey": "DG", "freebaseKeyCands": ["DG"], "dep_path": []}
+{"answers": "Specialty Retail", "entities": ["AAP", "COMPANY"], "qText": "What is the Industry of $AAP?", "qId": 1315, "freebaseKey": "AAP", "freebaseKeyCands": ["AAP"], "dep_path": []}
+{"answers": "Large Cap/Value", "entities": ["GIS", "COMPANY"], "qText": "What is the Equity Style of $GIS?", "qId": 563, "freebaseKey": "GIS", "freebaseKeyCands": ["GIS"], "dep_path": []}
+{"answers": "Resorts & Casinos", "entities": ["LVS", "COMPANY"], "qText": "What is the Industry of $LVS?", "qId": 754, "freebaseKey": "LVS", "freebaseKeyCands": ["LVS"], "dep_path": []}
+{"answers": "Mid Cap/Value", "entities": ["SJM", "COMPANY"], "qText": "What is the Equity Style of $SJM?", "qId": 1172, "freebaseKey": "SJM", "freebaseKeyCands": ["SJM"], "dep_path": []}
+{"answers": "Large Cap/Blend", "entities": ["EA", "COMPANY"], "qText": "What is the Equity Style of $EA?", "qId": 572, "freebaseKey": "EA", "freebaseKeyCands": ["EA"], "dep_path": []}
+{"answers": "Healthcare", "entities": ["MRK", "COMPANY"], "qText": "What is the Sector of $MRK?", "qId": 63, "freebaseKey": "MRK", "freebaseKeyCands": ["MRK"], "dep_path": []}
+{"answers": "Large Cap/Value", "entities": ["ZBH", "COMPANY"], "qText": "What is the Equity Style of $ZBH?", "qId": 551, "freebaseKey": "ZBH", "freebaseKeyCands": ["ZBH"], "dep_path": []}
+{"answers": "Semiconductors", "entities": ["TXN", "COMPANY"], "qText": "What is the Industry of $TXN?", "qId": 160, "freebaseKey": "TXN", "freebaseKeyCands": ["TXN"], "dep_path": []}
+{"answers": "Communication Equipment", "entities": ["HPE", "COMPANY"], "qText": "What is the Industry of $HPE?", "qId": 895, "freebaseKey": "HPE", "freebaseKeyCands": ["HPE"], "dep_path": []}
+{"answers": "Building Materials", "entities": ["VMC", "COMPANY"], "qText": "What is the Industry of $VMC?", "qId": 886, "freebaseKey": "VMC", "freebaseKeyCands": ["VMC"], "dep_path": []}
+{"answers": "Large Cap/Value", "entities": ["C", "COMPANY"], "qText": "What is the Equity Style of $C?", "qId": 95, "freebaseKey": "C", "freebaseKeyCands": ["C"], "dep_path": []}
+{"answers": "Information Technology Services", "entities": ["BR", "COMPANY"], "qText": "What is the Industry of $BR?", "qId": 1078, "freebaseKey": "BR", "freebaseKeyCands": ["BR"], "dep_path": []}
+{"answers": "Mid Cap/Value", "entities": ["FITB", "COMPANY"], "qText": "What is the Equity Style of $FITB?", "qId": 830, "freebaseKey": "FITB", "freebaseKeyCands": ["FITB"], "dep_path": []}
+{"answers": "Discount Stores", "entities": ["DG", "COMPANY"], "qText": "What is the Industry of $DG?", "qId": 469, "freebaseKey": "DG", "freebaseKeyCands": ["DG"], "dep_path": []}
+{"answers": "Luxury Goods", "entities": ["TPR", "COMPANY"], "qText": "What is the Industry of $TPR?", "qId": 1360, "freebaseKey": "TPR", "freebaseKeyCands": ["TPR"], "dep_path": []}
+{"answers": "Software - Infrastructure", "entities": ["FLT", "COMPANY"], "qText": "What is the Industry of $FLT?", "qId": 661, "freebaseKey": "FLT", "freebaseKeyCands": ["FLT"], "dep_path": []}
+{"answers": "Large Cap/Value", "entities": ["ITW", "COMPANY"], "qText": "What is the Equity Style of $ITW?", "qId": 356, "freebaseKey": "ITW", "freebaseKeyCands": ["ITW"], "dep_path": []}
+{"answers": "Consumer Cyclical", "entities": ["WHR", "COMPANY"], "qText": "What is the Sector of $WHR?", "qId": 1299, "freebaseKey": "WHR", "freebaseKeyCands": ["WHR"], "dep_path": []}
+{"answers": "Banks - Regional", "entities": ["MTB", "COMPANY"], "qText": "What is the Industry of $MTB?", "qId": 784, "freebaseKey": "MTB", "freebaseKeyCands": ["MTB"], "dep_path": []}
+{"answers": "Department Stores", "entities": ["M", "COMPANY"], "qText": "What is the Industry of $M?", "qId": 1474, "freebaseKey": "M", "freebaseKeyCands": ["M"], "dep_path": []}
+{"answers": "Basic Materials", "entities": ["CE", "COMPANY"], "qText": "What is the Sector of $CE?", "qId": 1122, "freebaseKey": "CE", "freebaseKeyCands": ["CE"], "dep_path": []}
+{"answers": "Medical Distribution", "entities": ["MCK", "COMPANY"], "qText": "What is the Industry of $MCK?", "qId": 607, "freebaseKey": "MCK", "freebaseKeyCands": ["MCK"], "dep_path": []}
+{"answers": "Utilities", "entities": ["CNP", "COMPANY"], "qText": "What is the Sector of $CNP?", "qId": 1107, "freebaseKey": "CNP", "freebaseKeyCands": ["CNP"], "dep_path": []}
+{"answers": "Mid Cap/Value", "entities": ["ALK", "COMPANY"], "qText": "What is the Equity Style of $ALK?", "qId": 1358, "freebaseKey": "ALK", "freebaseKeyCands": ["ALK"], "dep_path": []}
+{"answers": "Large Cap/Blend", "entities": ["KO", "COMPANY"], "qText": "What is the Equity Style of $KO?", "qId": 62, "freebaseKey": "KO", "freebaseKeyCands": ["KO"], "dep_path": []}
+{"answers": "Large Cap/Value", "entities": ["MMM", "COMPANY"], "qText": "What is the Equity Style of $MMM?", "qId": 200, "freebaseKey": "MMM", "freebaseKeyCands": ["MMM"], "dep_path": []}
