@@ -1,5 +1,5 @@
 import random
-
+from pprint import pprint
 # ------------------------- Question Generation -------------------------
 def generate_question(entity, field, answer):
     """
@@ -22,14 +22,6 @@ def generate_questions(data):
         
         for field, answer in info.items():
             
-            field_lower = field.lower()
-            
-            if field_lower not in set(['hq state/province', 
-                                    'sector', 
-                                    'industry', 
-                                    'equity style']):
-                continue
-            
             raw_questions.append(generate_question(entity, field, answer))
 
     return raw_questions
@@ -43,10 +35,10 @@ def decorate_question(question, answer, entity, id):
     Output: (Dict) Dictionary representation of valid question format.
     """
 
-    decorated_question = {'answers': answer, 
-                        'entities': [entity, "COMPANY"],
+    decorated_question = {'answers': [answer], 
+                        'entities': [[entity, "ORGANIZATIONS"]],
                         'qText': question, 
-                        'qId': id, 
+                        'qId': str(id), 
                         'freebaseKey': entity, 
                         'freebaseKeyCands': [entity], 
                         'dep_path': []}
@@ -79,7 +71,7 @@ def split_train_valid_set(questions):
     random_questions = random.sample(questions, len(questions))
     validation_size = len(questions) // 5
     training_set, validation_set = random_questions[validation_size:], random_questions[:validation_size]
-
+    
     return (training_set, validation_set)
 
 
@@ -91,7 +83,6 @@ def generate_question_sets(data):
     Output: (List, List) Tuple containing (question training set, question validation set).
     """
     raw_questions = generate_questions(data)
-
     decorated_questions = decorate_questions(raw_questions)
 
     train_set, valid_set = split_train_valid_set(decorated_questions)
