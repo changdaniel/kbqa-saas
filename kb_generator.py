@@ -1,3 +1,5 @@
+import itertools
+
 # ------------------------- KB Generation -------------------------
 def initialize_node():
     """
@@ -45,7 +47,7 @@ def create_entity_node(entity_info):
         predicate = '/' + field_lower.replace(" ", "_")
 
         field_node = create_field_node(field, val)
-        entity_node['neighbors'][predicate] = [{'/m/random_key': field_node}]
+        entity_node['neighbors'][predicate] = [{'/m/{}'.format(next(global_index)): field_node}]
     
 
     return entity_node 
@@ -59,6 +61,10 @@ def create_knowledge_base(data):
     """
 
     knowledge_base = {}
+
+    global global_index
+    #Starting at 2 for entity2id creation
+    global_index = itertools.count(2)
 
     for entity, info in data.items():
         
