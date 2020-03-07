@@ -12,11 +12,11 @@ def generate_question(entity, field, answer):
 
 def generate_questions(data):   
     """
-    Description: Generates training and validation questions.
+    Description: Generates list of raw questions, answers, and entity topics.
     Parameters: (Dict) Dictionary containing data in specified format.
-    Output: (List, List) Tuple containing (training question set, validation question set)
+    Output: (List) List containing raw questions in (question, answer, entity) format.
     """
-    questions = []
+    raw_questions = []
 
     for entity, info in data.items():
         
@@ -30,9 +30,9 @@ def generate_questions(data):
                                     'equity style']):
                 continue
             
-            questions.append(generate_question(entity, field, answer))
+            raw_questions.append(generate_question(entity, field, answer))
 
-    return questions
+    return raw_questions
 
         
 # ------------------------- Question Decoration -------------------------
@@ -40,7 +40,7 @@ def decorate_question(question, answer, entity, id):
     """
     Description: Takes raw question output and returns valid question format.
     Parameters: (str) Question text, (str) Question answer, (str) Topic entity, (str) Unique question id.
-    Output: (Dict) Dictionary representation
+    Output: (Dict) Dictionary representation of valid question format.
     """
 
     decorated_question = {'answers': answer, 
@@ -87,7 +87,7 @@ def split_train_valid_set(questions):
 def generate_question_sets(data):
     """
     Description: Takes in data and return question training and validation set in specified format.
-    Parameters: (Dict) Raw data in specified format.
+    Parameters: (Dict) Dictionary representation of raw data from load functions.
     Output: (List, List) Tuple containing (question training set, question validation set).
     """
     raw_questions = generate_questions(data)

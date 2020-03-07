@@ -2,6 +2,7 @@ import questions_generator
 import kb_generator
 import vocab2id_augmentor
 import entity2id_generator
+import data_filter
 import json
 from sys import argv
 import os
@@ -44,7 +45,7 @@ def format_kb(knowledge_base):
     for entity, entity_info in knowledge_base.items():
 
         entity_node = {entity: entity_info}
-        output += str(entity_node) + "\n"
+        output += json.dumps(entity_node) + "\n"
 
     return output
 
@@ -57,7 +58,7 @@ def format_questions(questions):
     """
     output = ""
     for decorated_question in questions:
-        output += str(decorated_question) + "\n"
+        output += json.dumps(decorated_question) + "\n"
 
     return output
 
@@ -100,7 +101,7 @@ def write_vocab2id(new_vocab, dir_name):
     Parameters: 
     Return: 
     """
-    vocab_path = os.path.join(dir_name,'new_vocab2id.json')
+    vocab_path = os.path.join(dir_name,'vocab2id.json')
     with open(vocab_path, 'w') as vocab_outfile:
         json.dump(new_vocab, vocab_outfile)
 
@@ -124,6 +125,8 @@ if __name__ == "__main__":
     data = load_data(data_infile_path)
     old_vocab = load_vocab()
 
+    data = data_filter.filter_fields(data, ['sector', 'industry', 'equity style'])
+
     knowledge_base = kb_generator.create_knowledge_base(data)
     print('Knowledge base generated')
     train_questions, valid_questions = questions_generator.generate_question_sets(data)
@@ -137,6 +140,7 @@ if __name__ == "__main__":
     dir_name = 'data'
     if not os.path.exists(dir_name):
         os.mkdir(dir_name)
+
 
     write_kb_data(knowledge_base, dir_name)
     print('Knowledge base written')

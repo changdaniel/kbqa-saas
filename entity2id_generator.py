@@ -3,9 +3,9 @@ from functools import reduce
 # ------------------------- Entity2id Generation -------------------------
 def count_fields(data):
     """
-    Description: 
-    Parameters: 
-    Return: 
+    Description: Counts the number of fields in data.
+    Parameters: (Dict) Dictionary representation of raw data from load functions.
+    Return: Number of fields in data.
     """
     num_fields = reduce(lambda field_count, field_list: field_count + len(field_list), data.values(), 0)
 
@@ -13,9 +13,9 @@ def count_fields(data):
 
 def generate_entity2id(data):
     """
-    Description: 
-    Parameters: 
-    Return: 
+    Description: Generate entity2id word embeddings. The entity refers to "field" in this codebase.
+    Parameters: (Dict) Dictionary representation of raw data from load functions.
+    Return: (Dict) Dictionary representation of entity2id.
     """
 
     num_fields = count_fields(data)

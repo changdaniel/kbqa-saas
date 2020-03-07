@@ -56,7 +56,7 @@ def create_entity_node(entity_info):
 def create_knowledge_base(data):
     """
     Description: Creates knowledge base.
-    Parameters: (Dict) Dictionary raw data from load functions.
+    Parameters: (Dict) Dictionary representation of raw data from load functions.
     Return: (Dict) Dictionary represntation of knowledge base.
     """
 
