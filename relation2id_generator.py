@@ -22,5 +22,4 @@ def generate_relation2id(data):
     num_relations = len(unique_relations)
     additional = {predicate: i for i, predicate in enumerate(unique_relations, start = 2)}
     default.update(additional)
-    print(default)
     return default

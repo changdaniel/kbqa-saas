@@ -1,2 +1,4 @@
 data.zip
-__pycache__
+__pycache_
+data/*
+__pycache__/
