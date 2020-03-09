@@ -14,7 +14,7 @@ import os
 # ------------------------- Data Input -------------------------
 
 
-def load_data(infile_dir="./", infile_path='result_spy.json'):
+def load_data(infile_dir="./", infile_path='new_result_spy.json'):
     """
     Description: Loads data from specified format into dictionary
     Parameters: (str) Filepath of data file
@@ -152,7 +152,9 @@ if __name__ == "__main__":
     data = load_data(infile_dir=infile_dir)
     old_vocab = load_vocab(infile_dir=infile_dir)
 
-    test = ['url', 'investor relations url', 'sector', 'industry', 'equity style', 'next earnings release', 'last earnings release', 'next ex-dividend date', 'last ex-dividend date', 'description', 'existing metric alerts', '1 month price returns (daily)', '3 month price returns (daily)', '6 month price returns (daily)', 'year to date price returns (daily)', '1 year price returns (daily)', '3 year price returns (daily)', '52 week high (daily)', '52 week low (daily)', '52-week high date', '52-week low date', 'shares outstanding', 'dividend', 'dividend yield (forward)', 'dividend yield', 'cash dividend payout ratio', 'payout ratio', 'latest dividend pay date', 'last split factor', 'last split date', 'beta (5y)', 'max drawdown (all)', 'daily value at risk (var) 1% (all)', 'daily value at risk (var) 5% (all)', 'monthly value at risk (var) 5% (all)', 'monthly value at risk (var) 1% (all)', 'revenue estimates for current quarter', 'revenue estimates for current fiscal year', 'eps estimates for current quarter', 'eps estimates for current fiscal year', 'pe ratio (forward)', 'pe ratio (forward 1y)', 'ps ratio (forward)', 'ps ratio (forward 1y)', 'price target upside (daily)', 'revenue (ttm)', 'revenue (per share quarterly)', 'revenue (quarterly yoy growth)', 'eps diluted (ttm)', 'eps diluted (quarterly yoy growth)', 'net income (ttm)', 'ebitda (ttm)', 'total assets (quarterly)', 'cash and short term investments (quarterly)', 'book value (per share)', 'tangible book value (per share)', 'total liabilities (quarterly)', 'non-current portion of long term debt (quarterly)', 'total long term debt (quarterly)', 'shareholders equity (quarterly)', 'cash from financing (ttm)', 'cash from investing (ttm)', 'cash from operations (ttm)', 'capital expenditures (ttm)', 'net income (% of quarterly revenues)', 'net income (% of annual revenues)', 'accruals (quarterly)', 'beneish m-score (annual)', 'gross profit margin (quarterly)', 'profit margin (quarterly)', 'ebitda margin (ttm)', 'operating margin (ttm)', 'asset utilization (ttm)', 'days sales outstanding (quarterly)', 'days inventory outstanding (quarterly)', 'days payable outstanding (quarterly)', 'receivables turnover (quarterly)', 'return on assets', 'return on equity', 'return on invested capital', 'market cap', 'enterprise value', 'pe ratio', 'pe 10', 'peg ratio', 'earnings yield', 'ps ratio', 'price to book value', 'ev to revenues', 'ev to ebitda', 'ev to ebit', 'operating pe ratio', 'operating earnings yield', 'altman z-score (ttm)', 'current ratio', 'debt to equity ratio', 'free cash flow (quarterly)', 'kz index (annual)', 'tangible common equity ratio (quarterly)', 'times interest earned (ttm)', 'total employees (annual)', 'revenue per employee (annual)', 'net income per employee (annual)', 'ca score (ttm)', 'piotroski f score (ttm)', 'fulmer h factor (ttm)', "graham's number (ttm)", 'net current asset value per share (ncavps) (quarterly)', 'ohlson score (ttm)', 'quality ratio (ttm)', 'springate score (ttm)', 'sustainable growth rate (ttm)', "tobin's q (approximate) (quarterly)", 'zmijewski score (ttm)', 'momentum score', 'market cap score', 'quality ratio score']
+#     data = data_filter.filter_fields(data, test)
+    data_new = data
+#     data_new = data_filter.filter_tickers(data, ['MSFT'])
 
     knowledge_base = kb_generator.create_knowledge_base(data)
     print('Knowledge base generated')
