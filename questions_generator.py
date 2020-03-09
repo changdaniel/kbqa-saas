@@ -1,6 +1,9 @@
 import random
 from pprint import pprint
+
 # ------------------------- Question Generation -------------------------
+
+
 def generate_question(entity, field, answer):
     """
     Description: Generates single "what" question.
@@ -19,15 +22,17 @@ def generate_questions(data):
     raw_questions = []
 
     for entity, info in data.items():
-        
+
         for field, answer in info.items():
-            
+
             raw_questions.append(generate_question(entity, field, answer))
 
     return raw_questions
 
-        
+
 # ------------------------- Question Decoration -------------------------
+
+
 def decorate_question(question, answer, entity, id):
     """
     Description: Takes raw question output and returns valid question format.
@@ -35,13 +40,13 @@ def decorate_question(question, answer, entity, id):
     Output: (Dict) Dictionary representation of valid question format.
     """
 
-    decorated_question = {'answers': [answer], 
-                        'entities': [[entity, "ORGANIZATIONS"]],
-                        'qText': question, 
-                        'qId': str(id), 
-                        'freebaseKey': entity, 
-                        'freebaseKeyCands': [entity], 
-                        'dep_path': []}
+    decorated_question = {'answers': [answer],
+                          'entities': [[entity, "ORGANIZATIONS"]],
+                          'qText': question,
+                          'qId': str(id),
+                          'freebaseKey': entity,
+                          'freebaseKeyCands': [entity],
+                          'dep_path': []}
 
     return decorated_question
 

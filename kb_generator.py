@@ -1,5 +1,6 @@
 import itertools
 
+
 # ------------------------- KB Generation -------------------------
 def initialize_node():
     """
@@ -8,11 +9,11 @@ def initialize_node():
     Return: (Dict) Dictionary representation of empty node.
     """
     node = {}
-    node.update({'name':[], 
-                 'alias':[], 
-                 'notable_types':[], 
-                 'type':[], 
-                 'neighbors':{}})
+    node.update({'name': [],
+                 'alias': [],
+                 'notable_types': [],
+                 'type': [],
+                 'neighbors': {}})
     return node
     
 
@@ -49,8 +50,7 @@ def create_entity_node(entity_info):
         field_node = create_field_node(field, val)
         entity_node['neighbors'][predicate] = [{'/m/{}'.format(next(global_index)): field_node}]
     
-
-    return entity_node 
+    return entity_node
 
 
 def create_knowledge_base(data):
@@ -67,8 +67,8 @@ def create_knowledge_base(data):
     global_index = itertools.count(2)
 
     for entity, info in data.items():
-        
+
         entity_node = create_entity_node(info)
         knowledge_base[entity] = entity_node
-    
+
     return knowledge_base
