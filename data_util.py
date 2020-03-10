@@ -1,15 +1,18 @@
 import questions_generator
 import kb_generator
-import vocab2id_augmentor
-import entity2id_generator
-import relation2id_generator
-import entityType2id_generator
+
+from embedding_generators import vocab2id_augmentor
+from embedding_generators import entity2id_generator
+from embedding_generators import relation2id_generator
+from embedding_generators import entityType2id_generator
 import data_filter
 import json
 from sys import argv
 import os
 
+
 ### TODO: Write function signatures for data output and formatting.
+
 
 # ------------------------- Data Input -------------------------
 
@@ -148,13 +151,11 @@ def write_entityType2id(new_entityType, dir_name):
 
 if __name__ == "__main__":
 
-    infile_dir = "./" if len(argv) <= 1 else argv[1]
-    data = load_data(infile_dir=infile_dir)
-    old_vocab = load_vocab(infile_dir=infile_dir)
 
-#     data = data_filter.filter_fields(data, test)
-    data_new = data
-#     data_new = data_filter.filter_tickers(data, ['MSFT'])
+    infile_path = "result_spy.json" if len(argv) <= 1 else argv[1]
+    infile_dir = "./" if len(argv) <= 2 else argv[2]
+    data = load_data(infile_dir=infile_dir, infile_path=infile_path)
+    old_vocab = load_vocab(infile_dir=infile_dir)
 
     knowledge_base = kb_generator.create_knowledge_base(data)
     print('Knowledge base generated')
